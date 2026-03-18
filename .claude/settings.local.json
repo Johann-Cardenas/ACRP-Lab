@@ -1,0 +1,30 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash",
+      "Read",
+      "Edit",
+      "Write",
+      "Glob",
+      "Grep",
+      "Agent",
+      "Skill",
+      "NotebookEdit",
+      "WebFetch",
+      "WebSearch",
+      "mcp__ide__executeCode",
+      "mcp__ide__getDiagnostics",
+      "Bash(python3:*)",
+      "Bash(awk 'NR>=1 && NR<=200')",
+      "Bash(grep -E '\\(^<d1>|^<d3>|^<d5>|^<dmax>|^<aa>|^<TBT>|^<D2>|^<D4>|^<D6>|^<gNewGL>|^<Tt>|^<B>\\)$')",
+      "Bash(python -c \":*)",
+      "Bash(python3 -c \":*)",
+      "WebFetch(domain:www.bridgestone.com)",
+      "WebFetch(domain:www.goodyearaviation.com)",
+      "WebFetch(domain:www.jupitor.co.jp)",
+      "WebFetch(domain:www.boeing.com)",
+      "WebFetch(domain:www.dunlopaircrafttyres.co.uk)",
+      "WebFetch(domain:www.odsaerospace.com)"
+    ]
+  }
+}
