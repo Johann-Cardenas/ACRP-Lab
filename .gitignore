@@ -11,3 +11,12 @@ venv/
 ENV/
 # ignore Jupyter Notebook checkpoints
 **/.ipynb_checkpoints
+# mypy cache
+.mypy_cache/
+# OS files
+Thumbs.db
+.DS_Store
+# Python build artifacts
+*.egg-info/
+dist/
+build/
